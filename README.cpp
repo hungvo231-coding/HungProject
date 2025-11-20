@@ -11,4 +11,9 @@
 //  Constructor&Destructor.cpp Readme END
 
 //  String&Class.cpp Read me
-//    
+//     Include iostream to use cout
+//     Include fstream for writing and reading files
+//     Include string to use string type
+//     Include std to make print easier
+//     There are two items of data whose names and quantity, name stored in string type and quantity store in int type.
+//     saveToFile
