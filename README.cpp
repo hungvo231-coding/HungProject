@@ -10,7 +10,7 @@
 //    main() function used to create a  product and print its attributes.
 //  Constructor&Destructor.cpp Readme END
 
-//  String&Class.cpp Read me
+//  String&Class.cpp Readme
 //     Include iostream to use cout
 //     Include fstream for writing and reading files
 //     Include string to use string type
@@ -23,3 +23,4 @@
 //     Set its name and quantity by myItem.name = _____ and myItem.quantity = ______ in this case it is "Wrench" and 5
 //     myItem.saveToFile("item.txt"); save item to the txt file name item.txt (This will create a file containing: Wrench,5)
 //     myItem.loadFromFile("item.txt"; this will load and print the file content: File content: Wrench,5.
+//  String&Class.cpp Readme END
