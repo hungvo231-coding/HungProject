@@ -3,9 +3,9 @@
  1.  The program run an infinite loop of displaying a menu.
  2.  The user has to choose between 1 to 3.
  3.  Based on the user's input:
-    3a. Prints a greeting.
-    3b. Prompts for two numbers and displays their sum.
-    3c. Exits the program.
+    // 3a. Prints a greeting.
+    // 3b. Prompts for two numbers and displays their sum.
+    // 3c. Exits the program.
  4.  Invalid input or out-of-range input will lead to an error message and re-display the menu.
  For example:
 --- Menu ---
