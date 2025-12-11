@@ -24,4 +24,4 @@
 //			Smartphone: $299.99
 //		Final balance print out after all deductions.
 //		EXAMPLE: 
-//			Current Balance: $200.02
+//			Current Balance: $200.0
