@@ -78,7 +78,7 @@ int main() {
 	account.deposit(1000.00, "Initial deposit");
 
 	// Attempt a 2 valid purchase
-	accounts.purchase(499.99, "Laptop");
+	account.purchase(499.99, "Laptop");
 	account.purchase(299.99, "Smartphone");
 
 	// Print final balance
